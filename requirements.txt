@@ -1,6 +1,7 @@
+gradio
 openai
-python-dotenv
+anthropic
+google-generativeai
 requests
 beautifulsoup4
-jupyter
-dotenv
+python-dotenv
