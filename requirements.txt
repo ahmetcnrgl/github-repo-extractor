@@ -4,7 +4,6 @@ google-generativeai
 requests
 beautifulsoup4
 python-dotenv
-python==3.10
 gradio==3.50.2
 huggingface_hub==0.19.4
-torch
+
